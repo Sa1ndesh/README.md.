@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! I'm Sandesh Birannavar</h1>
-<h3 align="center">🚀 Full Stack Web Developer |AI & ML Enthusiast</h3>
+<h3 align="center">🚀 Frontend Web Developer |AI & ML Enthusiast</h3>
 
 ---
 
