@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <b>“Turning ideas into interactive and intelligent web experiences.”</b>
+  <b>“Building smart, engaging web applications that empower and excite.”</b>
 </p>
 
 ---
