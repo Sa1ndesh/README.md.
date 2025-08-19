@@ -1,103 +1,67 @@
-<h1 align="center">Hi 👋! I'm Sandesh Birannavar</h1>
-<h3 align="center">🚀 Frontend Web Developer |AI & ML Enthusiast</h3>
+# 👋 Hi, I'm Sandesh Siddappa Birannavar
+
+🚀 Passionate about technology, coding, and building impactful solutions.
+💻 Exploring **C, MySQL, AI, and Data Science**
+📘 Currently a **2nd Year Engineering Student (VTU)**
 
 ---
 
-<p align="center">
-  <b>“Building smart, engaging web applications that empower and excite.”</b>
-</p>
+## 🌐 Connect with Me
+
+* 📧 Email: [sandeshbirannavar@gmail.com](mailto:sandeshbirannavar@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/sandesh-birannavar-99b947313](https://www.linkedin.com/in/sandesh-birannavar-99b947313)
+* 🌍 Portfolio: [sa1ndesh.github.io/SANDESH-PORTFOLIO](https://sa1ndesh.github.io/SANDESH-PORTFOLIO/)
+* 🐦 Twitter: [twitter.com](https://x.com/home)
+* 📷 Instagram: [instagram.com/sandy.\_.45\_\_](https://www.instagram.com/sandy._.45__?igsh=bDdtcTI5YWFhczY5)
 
 ---
 
-### 🧑‍💻 Who Am I?
+## ⚡ Skills & Technologies
 
-Hello! I'm *Sandesh Birannavar, a self-driven and passionate **Frontend Web Developer* based in *Belagavi, Karnataka, India*.  
-Currently pursuing a *Bachelor of Engineering in Computer Science (AI & ML)* from *Visvesvaraya Technological University*.
+### 🔹 Programming Languages
 
-With a strong foundation in web development and a growing passion for building developer tools, I aim to create platforms that *empower users*—whether they're developers, designers, or professionals from any field.
+* JavaScript, Python, Java, C++
 
----
+### 🔹 Frontend
 
-### 🎯 What I Do
+* HTML, CSS, JavaScript
 
-- *Design & Build Web Applications* using HTML, CSS, JavaScript, Node.js, and Express.
-- *Create Clean & Interactive UIs* with intuitive design and dynamic functionality.
-- *Develop Mini-Games & Tools* for fun and productivity.
-- *Work on Scalable Backend Systems* that support dynamic content and real-time features.
-- *Explore AI & Machine Learning* to integrate intelligent behavior into applications.
+### 🔹 Backend
 
----
+* Node.js, Express.js
 
-### 🧩 Skills & Technologies
+### 🔹 Databases
 
-#### Programming Languages:
-- JavaScript, Python, Java, C++
+* SQL
+* MongoDB *(coming soon)*
 
-#### Frontend:
-- HTML, CSS, JavaScript
+### 🔹 Tools & Platforms
 
-#### Backend:
-- Node.js, Express.js
-
-#### Databases:
-- MongoDB (coming soon), SQL
-
-#### Tools & Platforms:
-- Git & GitHub, VS Code
+* Git & GitHub
+* VS Code
 
 ---
 
-### 🎮 Featured Project: Bubble Game
+## 🎮 Featured Project
 
-*[BIRTHDAY GIFT](https://sa1ndesh.github.io/Birthday_gift/)*  
-
-*GitHub Repo:* [BIRTHDAY GIFT](https://github.com/Sa1ndesh/Birthday_gift)
+* 🎉 [Birthday Gift](https://sa1ndesh.github.io/Birthday_gift/)
+  🔗 GitHub Repo: [Birthday Gift](https://github.com/Sa1ndesh/Birthday_gift)
 
 ---
 
-### 🚀 What Drives Me
+## 🌟 What Drives Me
 
-I'm deeply passionate about building tools that solve real problems.  
-Whether it's a *mini-game* for fun or a *developer platform* that boosts productivity — I enjoy taking an idea from scratch and making it real.
+I'm deeply passionate about building tools that solve real problems.
+Whether it's a mini-game for fun or a developer platform that boosts productivity — I enjoy taking an idea from scratch and making it real.
 
 I believe in:
-- *Simplicity with impact* — great tools don’t have to be complex.
-- *Learning through building* — every project is a step toward mastery.
-- *Empowering others* — through code, open source, and collaboration.
 
-My dream is to keep creating products that *people love to use*, and to contribute to the future of tech as both a developer and a problem solver.
+* **Simplicity with impact** — great tools don’t have to be complex.
+* **Learning through building** — every project is a step toward mastery.
+* **Empowering others** — through code, open source, and collaboration.
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulgulabaji&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgulabaji&layout=compact&theme=dark" height="150"/>
-</div>
+💡 My dream is to keep creating products that people love to use, and to contribute to the future of tech as both a developer and a problem solver.
 
 ---
 
-### 📬 Contact Me
-
-<div align="center">
-  <a href="https://www.instagram.com/sandy._.45__?igsh=bDdtcTI5YWFhczY5" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sandesh-birannavar-99b947313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:sandeshbirannavar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sa1ndesh.github.io/SANDESH-PORTFOLIO/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 👁 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sa1ndesh/count.svg?" />
-</p>
+⭐️ \*"Code, Learn, Share, and Grow"
