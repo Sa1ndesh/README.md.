@@ -2,7 +2,7 @@
 
 🚀 Passionate about technology, coding, and building impactful solutions.
 💻 Exploring **C, MySQL, AI, and Data Science**
-📘 Currently a **2nd Year Engineering Student (VTU)**
+📘 Currently a **3nd Year Engineering Student (VTU)**
 
 ---
 
